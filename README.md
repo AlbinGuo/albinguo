@@ -2,6 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=albinguo.albinguo)
 
+> 🌱npm库：https://www.npmjs.com/~guonei001
+
+> 🌱Gitee: https://gitee.com/guonan01
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9A82F7&lines=A+Web+front-end+development+engineer)](https://git.io/typing-svg)-->
 
 
