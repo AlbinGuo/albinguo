@@ -11,15 +11,28 @@
 
 
 
-**擅长:**  
+**技术栈**  
+<p align="left">
+     <samp>
+       <a href="javasript:;">Java</a> .
+       <a href="javasript:;">Vue</a> .
+       <a href="javasript:;">Nodejs</a> .
+       <a href="javasript:;">typescript</a> .
+       <a href="javasript:;">javascript</a> 
+  </samp>
+<!-- </p>
+<p align="left">
+  <samp>
+       <a href="javasript:;">SpringBoot</a> .
+       <a href="javasript:;">Docker</a> .
+       <a href="javasript:;">Nginx</a> .
+       <a href="javasript:;">Koa~Express~Sails</a> .
+       <a href="javasript:;">javascript</a> .
+       <a href="javasript:;">Uniapp</a> .
+  </samp>
+</p> -->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-- 🔭 I’m currently working on Web and java development
 
 <!-- - 🌱 I’m currently learning and sharing on my [jiangsongyang-blog](https://jiangsongyang.github.io/) welcome~  -->
 <!-- - 📁 掘金社区 : [大阿阳](https://juejin.cn/user/149189314752910) -->
