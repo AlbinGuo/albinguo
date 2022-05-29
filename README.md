@@ -7,19 +7,18 @@
 
 > :dog: Gitee: https://gitee.com/guonan01
 
-> :mouse: 正在维护的项目： https://github.com/AlbinGuo/petit-vue
-
-
+> :mouse: 开源项目： 🌻 <a href="https://github.com/AlbinGuo/petit-vue">petit-vue</a> 🚀 <a href="https://github.com/AlbinGuo/mature-element">mature-element</a> 
 
 **技术栈**  
 <p align="left">
      <samp>
-       <a href="javasript:;">Java</a> .
        <a href="javasript:;">Vue</a> .
        <a href="javasript:;">Nodejs</a> .
        <a href="javasript:;">typescript</a> .
-       <a href="javasript:;">javascript</a> 
-  </samp>
+       <a href="javasript:;">javascript</a> . 
+       <a href="javasript:;">Java</a> 
+     </samp>
+</p>
 <!-- </p>
 <p align="left">
   <samp>
